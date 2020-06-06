@@ -1,5 +1,6 @@
 # Mariana Ponce Gonzàlez
 # Proyecto final
+# Se revisò el viernes 5 en una asesoria especial 
 
 from PIL import Image
 
