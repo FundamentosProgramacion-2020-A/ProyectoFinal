@@ -1,0 +1,57 @@
+Hola profe, perdón que le tenga que dejar esta nota. 
+
+Sucede que al planear mi programa, no calculé el peso de la cantidad de imágenes 
+que generé para que se usaran en la app (son 384 diferentes para 384 posibles resultados).
+Intenté comprimirlas y aun así pesaba mucho. Entonces, hice esta versión ligera del código 
+para poder subirla a Github que tiene solo 2 imágenes.
+
+Las combinaciones de las respuestas que el usuario da al cuestionario 
+son las que detemrinan qué imagen abrir, entonces sólo hay dos combinaciones de respuestas
+con las que esta versión ligera del código abre la imagen. 
+
+Se las dejo por si quiere probar 
+cómo debería de funcionar el programa si pudiera subirlo a Github con todas las imágenes:
+
+CASO 1:
+
+Primero conteste que quiere hacer una cotización, se abrirá el cuestionario
+A) Responder "1. Cobetura de evento"
+B) Responder "2. Jornada (8 horas)"
+C) Responder "1. CDMX"
+D) Responder "2. No"  (iluminación)
+E) Responder "1. Sí"  (sonido directo)
+F) Responder "1. Sí"   (motion graphics)
+
+G) ¿Está de acuerdo con su cotización?
+	Responder "2. No, la necesito con más urgencia" la primera vez que pregunta.
+	Responder "2. No, la necesito con más urgencia" la segunda vez.
+	Responder "1. Aceptar"  (cuando avisa que ya no se puede reducir más)
+
+CASO 2:
+
+Primero conteste que quiere hacer una cotización, se abrirá el cuestionario
+A) Responder "2. Video publicitario o institucional"
+B) Responder "4. Llamado nocturno (12 horas durante la noche)"
+C) Responder "1. CDMX"
+D) Responder "1. Sí"  (iluminación)
+E) Responder "1. Sí"  (sonido directo)
+F) Responder "1. Sí"   (motion graphics)
+
+G) ¿Está de acuerdo con su cotización?
+	Responder "2. No, la necesito con más urgencia" la primera vez que pregunta.
+	Responder "2. No, la necesito con más urgencia" la segunda vez.
+	Responder "1. Aceptar"  (cuando avisa que ya no se puede reducir más)
+
+
+Y el resultado debería abrir una imagen en ambos casos, 
+además de que el costo aparece en la sección de SHELL de Thonny.
+
+DE TODOS MODOS, le quise enviar por correo la versión completa de mi programa, a través de WeTransfer.
+También le dejo aquí la liga: https://we.tl/t-oj1Wiwu5dr
+Ojalá pudiera revisarla, ya que esa funciona correctamente en cualquier caso.
+
+NOTA: El programa en esta versión ligera de todos modos cumple su función que es calcular 
+el costo del servicio, 
+pero mi intención era presentar cada uno de los posibles resultados con una imagen.
+
+¡Gracias!
