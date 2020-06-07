@@ -1,0 +1,19 @@
+Especificaciones de grabación, escena 04
+
+Parte 1: 
+- Plano Medio
+- Ángulo Normal
+- Movimiento: Cámara en Mano
+- Iluminación: Luz Principal
+
+Parte 2:
+- Plano Detalle
+- Ángulo Picado
+- Movimiento: Travelling
+- Iluminación: Luz Principal
+
+Parte 3:
+- Primerisimo Primer Plano
+- Ángulo Normal
+- Movimiento: Tracking
+- Iluminación: Luz Principal

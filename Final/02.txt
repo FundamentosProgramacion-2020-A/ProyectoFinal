@@ -1,0 +1,13 @@
+Especificaciones de grabación, escena 02
+
+Parte 1: 
+- Gran Plano General
+- Ángulo Picado
+- Movimiento: Travelling
+- Iluminación: Luz Fondo
+
+Parte 2:
+- Plano Americano
+- Ángulo Normal
+- Movimiento: Travelling
+- Iluminación: Luz Principal

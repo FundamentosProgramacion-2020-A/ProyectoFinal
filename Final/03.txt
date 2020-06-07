@@ -1,0 +1,13 @@
+Especificaciones de grabación, escena 03
+
+Parte 1: 
+- Plano Medio
+- Ángulo Normal
+- Movimiento: Cámara en Mano
+- Iluminación: Luz Principal
+
+Parte 2:
+- Plano Medio
+- Ángulo Normal
+- Movimiento: Cámara en Mano
+- Iluminación: Luz Principal

@@ -1,0 +1,6 @@
+Especificaciones de grabación, escena 01
+
+- Plano General
+- Ángulo Picado
+- Movimiento: Zoom In
+- Iluminación: Luz Principal

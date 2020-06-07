@@ -1,0 +1,19 @@
+Especificaciones de grabación, escena 05
+
+Parte 1: 
+- Primer Plano
+- Ángulo Normal
+- Movimiento: Cámara en Mano
+- Iluminación: Luz Lateral
+
+Parte 2:
+- Plano Medio
+- Ángulo Normal
+- Movimiento: Cámara en Mano
+- Iluminación: Luz Principal
+
+Parte 3:
+- Plano Medio Corto
+- Ángulo Normal
+- Movimiento: Cámara en Mano
+- Iluminación: Luz Lateral
